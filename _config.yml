@@ -6,16 +6,18 @@ description: Que lo imposible, pueda ser posible
 
 # User settings
 username: Mex Delgado
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: To embark on a career of achievement, with possibilities of growth by extending my professional training. To be able to apply all my theoretical knowledge to practice and thus learn to perform more and better in the digital transformation generating a positive impact on society.
 user_title: Sr. Developer Full-Stack
 email: mdelgado@tresdoce.com.ar
 twitter_username: rudemex
 github_username:  rudemex
-gplus_username:  lorem_ipsum
+instagram_username:  rudemex
+facebook_username:  rudemex
+linkedin_username:  rudemex
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-165583828-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
